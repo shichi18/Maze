@@ -13,7 +13,7 @@
 ボールが　壁にぶつかるとスタートに戻る。
 
 ## 1.スタート画面
-![start](https://user-images.githubusercontent.com/32414468/38996900-24faf4aa-4427-11e8-9737-f2e0a8c43525.png)
+<img src = "https://user-images.githubusercontent.com/32414468/38996900-24faf4aa-4427-11e8-9737-f2e0a8c43525.png" width =70%>
 
 左下からスタートして左上がゴール。  
 ボールが　壁にぶつかるとスタートに戻る。
@@ -21,7 +21,7 @@
 
 
 ## 2．ゴール画面
-![goal](https://user-images.githubusercontent.com/32414468/38996908-2a833dd8-4427-11e8-8bd3-be51cf7f4e28.png)
+<img src ="https://user-images.githubusercontent.com/32414468/38996908-2a833dd8-4427-11e8-8bd3-be51cf7f4e28.png" width =70%>
 
 左上のゴールにボールが乗るとゴール画面へ。
 
